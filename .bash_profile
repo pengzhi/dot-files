@@ -1,6 +1,3 @@
-# For Android
-export PATH=${PATH}:/Users/firstmedia/android-sdks/platform-tools
-
 if [ -f `brew --prefix`/etc/bash_completion ]; then
     . `brew --prefix`/etc/bash_completion
 fi
@@ -22,3 +19,5 @@ export PATH="/usr/local/heroku/bin:$PATH"
 export PATH="/opt/local/bin:/opt/local/sbin:/usr/local/bin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
+export LC_CTYPE=C 
+export LANG=C

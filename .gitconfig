@@ -11,7 +11,7 @@
     hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 [user]
 	name = Pengzhi Quah
-	email = pquah@fmginc.com
+	email = peng.zhi@avidlifemedia.com 
 
 [format]
     pretty = %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset
